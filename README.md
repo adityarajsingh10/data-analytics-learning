@@ -22,3 +22,14 @@ I will continuously update this repository as I learn and apply new concepts.
 ## 🎯 Objective
 
 To build strong fundamentals and transition into real-world data analytics projects.
+
+---
+
+## 🗓️ Daily Progress Log
+
+### Day 1
+
+* Set up GitHub profile
+* Created learning structure
+* Started documenting journey
+
