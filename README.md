@@ -11,7 +11,9 @@
 |-----|-------|--------|
 | [Day 1](./Day1.md) | Excel — IF, AVERAGEIF, INDEX+MATCH, Pivot Tables | ✅ Done |
 | [Day 2](./Day2.md) | VLOOKUP vs XLOOKUP + Data Cleaning | ✅ Done |
-| Day 3 | Coming tomorrow | 🔄 In Progress |
+| [Day 3](./Day3.md) | TRIM, PROPER+TRIM, SUBSTITUTE, Remove Duplicates | ✅ Done |
+| [Day 4](./Day4.md) | Excel Sales Dashboard — Pivot Tables & Charts | ✅ Done |
+| Day 5 | Slicers + Dashboard Polish | 🔄 In Progress |
 
 ---
 
