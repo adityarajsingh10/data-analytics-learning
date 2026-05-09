@@ -13,7 +13,8 @@
 | [Day 2](./Day2.md) | VLOOKUP vs XLOOKUP + Data Cleaning | ✅ Done |
 | [Day 3](./Day3.md) | TRIM, PROPER+TRIM, SUBSTITUTE, Remove Duplicates | ✅ Done |
 | [Day 4](./Day4.md) | Excel Sales Dashboard — Pivot Tables & Charts | ✅ Done |
-| Day 5 | Slicers + Dashboard Polish | 🔄 In Progress |
+| [Day 5](./Day5.md) | Slicers + Conditional Formatting + Dashboard Polish | ✅ Done |
+| Day 6 | SQL Fundamentals | 🔄 In Progress |
 
 ---
 
